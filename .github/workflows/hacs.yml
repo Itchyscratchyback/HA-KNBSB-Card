@@ -1,5 +1,22 @@
-{
-  "name": "KNBSB Schedule Card",
-  "filename": "knbsb-schedule-card.js",
-  "country": "NL"
-}
+name: HACS validation
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  validate-hacs:
+    name: HACS validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: HACS validation
+        uses: hacs/action@main
+        with:
+          category: plugin
