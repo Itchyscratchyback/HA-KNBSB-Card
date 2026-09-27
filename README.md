@@ -13,7 +13,9 @@ views:
       - type: custom:knbsb-schedule-card
         entity: sensor.knbsb_schedule
 
-        KNBSB Schedule Card voor Home Assistant
+```
+
+KNBSB Schedule Card voor Home Assistant
 Een custom dashboardkaart voor de KNBSB-integratie voor Home Assistant.
 
 De KNBSB Schedule Card toont het volledige wedstrijdprogramma van een KNBSB-team als overzichtelijke wedstrijdkaarten.
