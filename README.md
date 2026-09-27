@@ -1,4 +1,19 @@
-KNBSB Schedule Card voor Home Assistant
+# Aanbevolen dashboardlayout
+
+Voor de beste weergave wordt een Home Assistant **Masonry View** aanbevolen.
+
+Gebruik bijvoorbeeld:
+
+```yaml
+views:
+  - title: KNBSB
+    path: knbsb
+    type: masonry
+    cards:
+      - type: custom:knbsb-schedule-card
+        entity: sensor.knbsb_schedule
+
+        KNBSB Schedule Card voor Home Assistant
 Een custom dashboardkaart voor de KNBSB-integratie voor Home Assistant.
 
 De KNBSB Schedule Card toont het volledige wedstrijdprogramma van een KNBSB-team als overzichtelijke wedstrijdkaarten.
