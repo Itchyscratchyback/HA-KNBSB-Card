@@ -49,8 +49,10 @@ De eerstvolgende wedstrijd wordt automatisch gemarkeerd als:
 VOLGENDE WEDSTRIJD
 Voorbeeld
 Een wedstrijdkaart bevat bijvoorbeeld:
-https://github.com/Itchyscratchyback/HA-KNBSB-Schedule-card/blob/main/images/screenshot-1.png
-https://github.com/Itchyscratchyback/HA-KNBSB-Schedule-card/blob/main/images/screenshot-2.png
+
+<img width="1031" height="1387" alt="screenshot" src="https://github.com/user-attachments/assets/19ba7222-60ed-4511-9f97-bd3c4e41f7bf" />
+
+<img width="947" height="1218" alt="screenshot-2" src="https://github.com/user-attachments/assets/7e4ed998-6c57-4609-b785-5f0e43ec3f49" />
 
 
 Vereisten
