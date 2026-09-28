@@ -49,36 +49,10 @@ De eerstvolgende wedstrijd wordt automatisch gemarkeerd als:
 VOLGENDE WEDSTRIJD
 Voorbeeld
 Een wedstrijdkaart bevat bijvoorbeeld:
-
-          VOLGENDE WEDSTRIJD
-
-      THUIS                  UIT
-
-    [UVV logo]          [Houten logo]
-
-       UVV          VS    Houten Dragons
+https://github.com/Itchyscratchyback/HA-KNBSB-Schedule-card/blob/main/images/screenshot-1.png
+https://github.com/Itchyscratchyback/HA-KNBSB-Schedule-card/blob/main/images/screenshot-2.png
 
 
-       26-09-2026     10:00
-
-        Gevolgd team: Uit
-
-
-       Sportpark De Paperclip
-       Parkzichtlaan 201
-
-
-       38.2 km        32 minuten
-
-
-       Geplande aankomst       09:25
-       Vertrek vanaf huis      08:43
-
-
-              NAVIGEER
-
-
-       BeeBall Rookie League
 Vereisten
 De KNBSB Schedule Card heeft de KNBSB backend-integratie nodig.
 
